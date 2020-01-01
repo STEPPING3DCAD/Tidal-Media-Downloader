@@ -1,10 +1,10 @@
 ﻿# ====DLLIST EXAMPLE FORMAT====
-# 1.'#' in the beginning is a comment-line which will be skip
+# 1.'#' in the beginning of album, track, video, url, artist, playlist, is a comment-line which will ensure that line is skipped.  When adding your own links and album, track, video numbers, ensure there is no '#' appending the line or it will not be downloaded.
 # 2.Group contains of album/track/video/url/artist/playlist
 # EXAMPLE:
 
 [album]
-90521280
+#90521280
 
 [track]
 #66214149  
